@@ -12,10 +12,12 @@
 ⛔Down code copy and past termux 
 ```
 </br>
-
 ```
 termux-setup-storage && pkg update && pkg upgrade && pkg install nodejs && pkg install git && git clone https://github.com/Fenixid-server/Whatsapp-Status-view && cd Whatsapp-Status-view && npm i && npm start
 ```
+⛔bot restart use this command 👇
+```
+```cd Whatsapp-Status-view && npm start -g pm2 && pm2 start  index.js && pm2 save && pm2 logs```
 ## `For 24/7 Activation (Termux)`
 
 
