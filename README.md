@@ -1,4 +1,4 @@
-<a href="https://telegra.ph/file/fd76abf848ff6d82a35fb.png"><img src="https://telegra.ph/file/fd76abf848ff6d82a35fb.png" alt="badrabbit-MD" border="0"></a>
+<a href="https://telegra.ph/file/5e6e279d8608191a9fac1.jpg"><img src="https://telegra.ph/file/fd76abf848ff6d82a35fb.png" alt="badrabbit-MD" border="0"></a>
 <h1 align="center">🎯whatsapp plugin status🎯<br></h1>
 
 
@@ -14,8 +14,7 @@
 </br>
 
 ```
-pkg update && pkg upgrade && pkg install nodejs && pkg install git && git clone https://github.com/Fenixid-server/Whatsapp-Status-view
- && cd Whatsapp-Status-view && npm i
+pkg update && pkg upgrade && pkg install nodejs && pkg install git && git clone https://github.com/Fenixid-server/Whatsapp-Status-view && cd Whatsapp-Status-view && npm i && npm start
 ```
 ## `For 24/7 Activation (Termux)`
 
