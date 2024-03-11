@@ -14,7 +14,8 @@
 </br>
 
 ```
-pkg update && pkg upgrade && pkg install nodejs && pkg install git && git clone https://github.com/Fenixid-server/Whatsapp-Status-view && cd nekolinx-lite && npm i`
+pkg update && pkg upgrade && pkg install nodejs && pkg install git && git clone https://github.com/Fenixid-server/Whatsapp-Status-view
+ && cd Whatsapp-Status-view && npm i
 ```
 ## `For 24/7 Activation (Termux)`
 
