@@ -9,12 +9,12 @@
 
 🔻More features and improvements!
 
--regards fenix id server
+⛔Down code copy and past termux 
 ```
 </br>
 
 ```
-pkg update && pkg upgrade && pkg install nodejs && pkg install git && git clone https://github.com/Fenixid-server/Whatsapp-Status-view && cd Whatsapp-Status-view && npm i && npm start
+termux-setup-storage && pkg update && pkg upgrade && pkg install nodejs && pkg install git && git clone https://github.com/Fenixid-server/Whatsapp-Status-view && cd Whatsapp-Status-view && npm i && npm start
 ```
 ## `For 24/7 Activation (Termux)`
 
