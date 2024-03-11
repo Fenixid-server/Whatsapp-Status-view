@@ -1,0 +1,23 @@
+{
+  "name": "Fenix id status v2r",
+  "version": "1.0.0",
+  "description": "Fenix id Status V2!",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "express": "latest",
+    "qrcode": "latest",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "whiskeysockets",
+    "baileys"
+  ],
+  "author": "irwanx",
+  "license": "MIT"
+}
