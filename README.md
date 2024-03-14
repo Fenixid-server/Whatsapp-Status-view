@@ -24,11 +24,34 @@ cd Whatsapp-Status-view && npm start -g pm2 && pm2 start  index.js && pm2 save &
 
 ```
 
+# Setup For Deployment 👇
+
+- ⛔Download THE REPOSITORY
+
+
+## ` Pair with WhatsApp V1 💚`
+<h2 align="left">  <a href="https://replit.com/@2023lastalone/FENIX-PRINTING-COD-FIX"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+</a>
+</h2>
+
+## 
+
+## ` Pair with WhatsApp V2💛`
+<h2 align="left">  <a href="https://fenix-id-server-printing-code.onrender.com"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+</a>
+</h2>
+
+## 
+
+# UPLOAD YOU cred.json > FENIX_ID_LICENSE file👇
+
+   
 ## ```Run in solar hosting```
 <p align="center">
-
-<a href="https://account.solarhosting.cc/register?ref=bNIPlLKD"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
+<a href="https://account.solarhosting.cc/register?ref=bNIPlLKD
+    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Solar Hosting" >
+    </a>
+  
 </p>
 
 ## `For 24/7 Activation (Termux)`
