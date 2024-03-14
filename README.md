@@ -44,13 +44,10 @@ cd Whatsapp-Status-view && npm start -g pm2 && pm2 start  index.js && pm2 save &
 ## 
 
 # UPLOAD YOU cred.json > FENIX_ID_LICENSE file👇
-
-   
 ## ```Run in solar hosting```
 <p align="center">
-<a href="https://account.solarhosting.cc/register?ref=bNIPlLKD
-    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Solar Hosting" >
-    </a>
+
+<a href="https://account.solarhosting.cc/register?ref=bNIPlLKD"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   
 </p>
 
